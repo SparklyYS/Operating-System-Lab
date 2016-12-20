@@ -1,5 +1,5 @@
 # 1 "keyboard.S"
-# 1 "/home/ys/Documents/oslab/linux-0.11/kernel/chr_drv//"
+# 1 "/home/ys/Documents/Operating-System-Lab/Lab3/oslab/linux-0.11/kernel/chr_drv//"
 # 1 "<built-in>"
 # 1 "<command line>"
 # 1 "keyboard.S"
