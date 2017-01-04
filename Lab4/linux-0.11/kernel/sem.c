@@ -198,9 +198,6 @@ int sys_sem_getvalue(sem_t* sema,int* valsem)      /*此处极易出错，因为
 
 void sleep_on_queue()
 {
-    /*if(current == &(init_task.task)) 
-		panic("task[0] trying to sleep!");*/
-
 	current->state = TASK_UNINTERRUPTIBLE;
 	schedule();
 }
